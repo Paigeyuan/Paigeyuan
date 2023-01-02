@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Paigeyuan
-- 👀 I’m interested in Front-end Developer
-- 🌱 I’m currently learning react html css javaScript
-- 💞️ I’m looking to collaborate on start-up or company
+- 👀 I’m Front-end Developer at start-up
+- 💞️ I’m in Progress Blockchain DeV
 - 📫 How to reach me puttida.yu@gmail.com
 
 <!---
