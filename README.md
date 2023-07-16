@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @PaigeALEZOS!  
 - 👀 I’m Front-end Developer at start-up Team. 
-- 💞️ I’m current Blockchain Developer. 
-- 💌 I'm new found passionate Blockchain Security. 
-- 🥊 I'm working hard at open source projects.
+- 💞️ I’m currently Practice to be Full-stack-engineer. 
+- 🥊 I'm working hard try to build the open source projects.
 - 📫 Feel free to reach me puttida.yu@gmail.com
 
 <!---
